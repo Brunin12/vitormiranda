@@ -2,12 +2,10 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-12" data-sal-delay="100" data-sal="slide-up" data-sal-duration="1000">
-        <h2>Core Features all Your <br> Website Needs</h2>
+        <h2>Treinamentos completos para seu restaurante crescer</h2>
       </div>
       <div class="col-lg-6 col-md-12" data-sal-delay="100" data-sal="slide-up" data-sal-duration="1000">
-        <p class="sub-title"><span class="description">EduBlink developed with the Elementor page builder
-            plugin</span>. It has 70+ unique pages containing a full education management system. The
-          theme lets you build and manage an online enrollment system effortlessly.</p>
+        <p class="sub-title"><span class="description">Nossos cursos foram criados por especialistas do setor</span>. São focados em resultados reais: aumento de vendas, padronização de processos e excelência no atendimento. Tudo 100% online e prático.</p>
       </div>
     </div>
     <div class="row g-5">
@@ -19,9 +17,8 @@
               <img class="feature-img-2" src="<?= base_url('assets') ?>/feature-02.webp" alt="Images">
             </div>
             <div class="content">
-              <h5 class="title">Front-end Real-time <br> Editing</h5>
-              <p>Build stunning pages just with these drag &amp; drop builders and 50+ custom widgets
-                exclusively</p>
+              <h5 class="title">Capacitação de Equipe <br> em Tempo Real</h5>
+              <p>Treine garçons, cozinheiros e gerentes com módulos diretos ao ponto. Aplique no dia seguinte e veja o resultado.</p>
             </div>
           </div>
         </div>
@@ -36,9 +33,8 @@
               <img class="feature-img-4 round" src="<?= base_url('assets') ?>/feature-06.jpg" alt="Images">
             </div>
             <div class="content">
-              <h5 class="title">One Click Demo <br> Import</h5>
-              <p>Make your website look exactly as our demo in a few clicks, no extra setup is
-                required.</p>
+              <h5 class="title">Aplicação Imediata <br> e Conteúdo Prático</h5>
+              <p>Sem enrolação. Conteúdo direto, voltado para situações reais do restaurante. Vídeos, apostilas e checklists prontos para uso.</p>
             </div>
           </div>
         </div>
@@ -47,14 +43,14 @@
         <div class="feature-style-1 feature-padding">
           <div class="inner">
             <div class="thumbnail thumbnail-3">
-              <h5 class="title">Optimized loading.</h5>
+              <h5 class="title">Satisfação Garantida</h5>
               <h2 class="counterup-item">
                 <span class="counter">98</span><span class="percent">%</span>
               </h2>
               <div class="content-counter">
                 <div class="expert-progressbar" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                   <div class="single-progressbar">
-                    <p class="progress-title">EduBlink Theme</p>
+                    <p class="progress-title">Clientes Satisfeitos</p>
                     <div class="progressbar-one">
                       <div class="progressbar">
                         <div class="proggress">
@@ -65,7 +61,7 @@
                     </div>
                   </div>
                   <div class="single-progressbar">
-                    <p class="progress-title">Other Themes</p>
+                    <p class="progress-title">Recompra de Cursos</p>
                     <div class="progressbar-two">
                       <div class="progressbar">
                         <div class="proggress">
@@ -79,9 +75,8 @@
               </div>
             </div>
             <div class="content">
-              <h5 class="title">Top Notch <br> Performance</h5>
-              <p>High performance, a good structure and well written source code. All in one panel, No
-                code required.</p>
+              <h5 class="title">Resultados Visíveis <br> em Poucas Semanas</h5>
+              <p>Mais organização na cozinha, agilidade no salão e avaliações positivas dos clientes. Seu time mais afiado do que nunca.</p>
             </div>
           </div>
         </div>

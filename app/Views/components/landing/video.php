@@ -3,9 +3,8 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="section-title text-center" data-sal-delay="100" data-sal="slide-up" data-sal-duration="1000">
-          <h2 class="title">The Ultimate Solution for Education <br> &amp; Online Course</h2>
-          <p class="text">You can create, edit, and customize your website visually and <br> see the
-            changes instantly</p>
+          <h2 class="title">A Solução Definitiva para Treinamentos <br> em Restaurantes</h2>
+          <p class="text">Oferecemos cursos práticos e diretos para capacitar sua equipe <br> e transformar a rotina do seu negócio.</p>
         </div>
         <div class="video-wrapper">
           <div class="thumb">

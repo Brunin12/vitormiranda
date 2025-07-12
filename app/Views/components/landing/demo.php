@@ -6,10 +6,10 @@
           <h2 class="counterup-item big-pre-title">
             <span class="counter">22</span><span class="percent">+</span>
           </h2>
-          <h2 class="title">Pre-Made Creative Online <span class="gradient-text"> Course</span> <br> <span
-              class="gradient-text-1"> Education</span> Homepage</h2>
-          <p class="description">Install any demo or template with a single click. You can mix <br> and
-            match all the demos and templates.</p>
+          <h2 class="title">Modelos de Treinamentos Prontos <span class="gradient-text"> para Restaurantes</span> <br>
+            <span class="gradient-text-1">e Equipes de Atendimento</span></h2>
+          <p class="description">Acesse módulos 100% aplicáveis com apenas um clique. Combine os conteúdos <br> conforme
+            a realidade do seu restaurante.</p>
         </div>
       </div>
     </div>
@@ -19,21 +19,21 @@
       <ul class="nav nav-tabs" role="tablist" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
         <li class="nav-item" role="presentation">
           <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#learnpress" type="button" role="tab"
-            aria-selected="true">LearnPress</button>
+            aria-selected="true">Treinamento Cozinha</button>
         </li>
 
         <li class="nav-item" role="presentation">
           <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tutorlms" type="button" role="tab"
-            aria-selected="false">Tutor LMS</button>
+            aria-selected="false">Atendimento & Garçom</button>
         </li>
 
         <li class="nav-item" role="presentation">
           <button class="nav-link" data-bs-toggle="tab" data-bs-target="#learndash" type="button" role="tab"
-            aria-selected="false">LearnDash</button>
+            aria-selected="false">Gestão & Liderança</button>
         </li>
         <li class="nav-item" role="presentation">
           <button class="nav-link" data-bs-toggle="tab" data-bs-target="#masterstudy" type="button" role="tab"
-            aria-selected="false">MasterStudy</button>
+            aria-selected="false">Controle & Estoque</button>
         </li>
         <!-- <li class="nav-item" role="presentation">
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#darkskin" type="button" role="tab" aria-selected="false">Dark Skin</button>
@@ -42,6 +42,7 @@
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#rtl" type="button" role="tab" aria-selected="false">RTL</button>
                     </li> -->
       </ul>
+
       <div class="tab-content">
         <!--LearnPress-->
         <div class="tab-pane fade active show" id="learnpress" role="tabpanel">

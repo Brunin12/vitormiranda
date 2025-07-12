@@ -1,16 +1,16 @@
 <div class="customer-review-area gap-top-equal">
   <div class="container">
     <div class="section-title" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
-      <h2 class="title">Real-life Experiences Shared by <br> Our Satisfied Customers</h2>
-      <p class="description">EduBlink theme is cherished worldwide for their capability to help anyone <br>
-        design and publish a professional education site effortlessly</p>
+      <h2 class="title">Experiências Reais Compartilhadas <br> Por Nossos Clientes Satisfeitos</h2>
+      <p class="description">Nosso curso é reconhecido por ajudar restaurantes a <br>
+        aprender e aplicar técnicas de forma prática e eficiente</p>
     </div>
     <div class="customer-review-wrapper">
       <div class="customer-review-wrap">
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Customer Support</span></p>
             <p class="text">Nice product. This developer takes his work seriously and humble to give a
@@ -23,7 +23,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Design Quality</span></p>
             <p class="text">Nice product. This developer takes his work seriously and humble to give a
@@ -36,7 +36,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Customer Support</span></p>
             <p class="text">Nice product. This developer takes his work seriously and humble to give a
@@ -49,7 +49,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Design Quality</span></p>
             <p class="text">Nice product. This developer takes his work seriously and humble to give a
@@ -62,7 +62,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Customer Support</span></p>
             <p class="text">Nice product. This developer takes his work seriously and humble to give a
@@ -75,7 +75,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Design Quality</span></p>
             <p class="text">Nice product. This developer takes his work seriously and humble to give a
@@ -90,7 +90,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span> Design Quality</span></p>
             <p class="text">Just Wow, I like the design and their incredible support. I had some queries
@@ -103,7 +103,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Customer Support</span></p>
             <p class="text">Excellent customer service! Got back right away and fixed my problem loading
@@ -116,7 +116,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Design Quality</span></p>
             <p class="text">This template is very nice and user-friendly. easily deploy each and
@@ -130,7 +130,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span> Design Quality</span></p>
             <p class="text">Just Wow, I like the design and their incredible support. I had some queries
@@ -143,7 +143,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Customer Support</span></p>
             <p class="text">Excellent customer service! Got back right away and fixed my problem loading
@@ -156,7 +156,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Design Quality</span></p>
             <p class="text">This template is very nice and user-friendly. easily deploy each and
@@ -172,7 +172,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span> Customizability</span></p>
             <p class="text">Great template! Beautiful design. Everything works great. The template is
@@ -186,7 +186,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Code Quality</span></p>
             <p class="text">Great item, works perfectly as promised.I had a little problem (caused by
@@ -199,7 +199,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Customer Support</span></p>
             <p class="text">Very nice template. Provides many demo pages allowing easy &amp; quick
@@ -212,7 +212,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span> Customizability</span></p>
             <p class="text">Great template! Beautiful design. Everything works great. The template is
@@ -226,7 +226,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Code Quality</span></p>
             <p class="text">Great item, works perfectly as promised.I had a little problem (caused by
@@ -239,7 +239,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Customer Support</span></p>
             <p class="text">Very nice template. Provides many demo pages allowing easy &amp; quick
@@ -254,7 +254,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span> Customer Support</span></p>
             <p class="text">Not only the design is GREAT, but the support is magnificent.</p>
@@ -266,7 +266,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Design Quality</span></p>
             <p class="text">Thank you very much either for the quality of the work.. which is very
@@ -280,7 +280,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Code Quality</span></p>
             <p class="text">Excellent customer service! Got back right away and fixed my problem loading
@@ -293,7 +293,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span> Customer Support</span></p>
             <p class="text">Not only the design is GREAT, but the support is magnificent.</p>
@@ -305,7 +305,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Design Quality</span></p>
             <p class="text">Thank you very much either for the quality of the work.. which is very
@@ -319,7 +319,7 @@
         <div class="customer-review-style-1">
           <div class="content">
             <div class="rating-icon">
-              <img src="<?= base_url('assets') ?>/icon-star.svg" alt="">
+              <img src="<?= base_url('assets/icon-star.svg') ?>" alt="">
             </div>
             <p class="content-title">for <span>Code Quality</span></p>
             <p class="text">Excellent customer service! Got back right away and fixed my problem loading
@@ -332,9 +332,9 @@
       </div>
     </div>
     <div class="customer-review-btn">
-      <a class="pv-btn"
-        href="https://themeforest.net/item/edublink-education-online-course-wordpress-theme/reviews/49402341"
-        target="_blank">Read More Review On Themeforest <img src="<?= base_url('assets') ?>/arrow-right.svg" alt=""></a>
+      <a class="pv-btn" href="<?= site_url() ?>" target="_blank">Veja Mais Avaliações dos Nossos Alunos
+        <img src="<?= base_url('assets/arrow-right.svg') ?>" alt="ícone de seta"></a>
     </div>
+
   </div>
 </div>

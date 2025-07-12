@@ -6,8 +6,8 @@
         <div class="header-brand">
           <div class="logo">
             <a href="<?= base_url() ?>">
-              <img class="logo-light" src="<?= base_url('assets/logo-white.png') ?>" alt="Corporate Logo">
-              <img class="logo-dark" src="<?= base_url('assets/logo-dark.png') ?>" alt="Corporate Logo">
+              <img class="logo-light" src="<?= base_url('assets/logo-white.png') ?>" alt="Logo do Restaurante">
+              <img class="logo-dark" src="<?= base_url('assets/logo-dark.png') ?>" alt="Logo do Restaurante">
             </a>
           </div>
         </div>
@@ -18,36 +18,30 @@
                 <ul class="mega-menu mega-menu-one">
                   <li>
                     <ul class="submenu mega-sub-menu mega-sub-menu-01">
-                      <li><a href="<?= site_url() ?>" target="_blank">EduBlink
-                          Education</a></li>
-                      <li><a href="<?= site_url() ?>distant-learning/" target="_blank">Distant Learning</a></li>
-                      <li><a href="<?= site_url() ?>university/" target="_blank">University</a></li>
-                      <li><a href="<?= site_url() ?>online-academy/" target="_blank">Online Academy</a></li>
-                      <li><a href="<?= site_url() ?>modern-schooling/" target="_blank">Modern Schooling</a></li>
-                      <li><a href="<?= site_url() ?>kitchen-coach/" target="_blank">Kitchen Coach</a></li>
-                      <li><a href="<?= site_url() ?>yoga-instructor/" target="_blank">Yoga Instructor</a></li>
-                      <li><a href="<?= site_url() ?>kindergarten/" target="_blank">Kindergarten</a></li>
-                      <li><a href="<?= site_url() ?>language-academy/" target="_blank">Language Academy</a></li>
+                      <li><a href="<?= site_url() ?>" target="_blank">Treinamento Básico para Restaurantes</a></li>
+                      <li><a href="<?= site_url('cozinha-profissional') ?>" target="_blank">Cozinha Profissional</a></li>
+                      <li><a href="<?= site_url('atendimento-ao-cliente') ?>" target="_blank">Atendimento ao Cliente</a></li>
+                      <li><a href="<?= site_url('gestao-de-restaurantes') ?>" target="_blank">Gestão de Restaurantes</a></li>
+                      <li><a href="<?= site_url('higiene-e-seguranca-alimentar') ?>" target="_blank">Higiene e Segurança Alimentar</a></li>
+                      <li><a href="<?= site_url('bar-e-bebidas') ?>" target="_blank">Bar e Bebidas</a></li>
+                      <li><a href="<?= site_url('delivery-logistica') ?>" target="_blank">Delivery e Logística</a></li>
+                      <li><a href="<?= site_url('marketing-gastronomico') ?>" target="_blank">Marketing Gastronômico</a></li>
                     </ul>
                   </li>
                   <li>
                     <ul class="submenu mega-sub-menu mega-sub-menu-01">
-                      <li><a href="<?= site_url() ?>remote-training/" target="_blank">Remote Training</a></li>
-                      <li><a href="<?= site_url() ?>business-coach/" target="_blank">Business Coach</a></li>
-                      <li><a href="<?= site_url() ?>motivation/" target="_blank">Motivation</a></li>
-                      <li><a href="<?= site_url() ?>programming/" target="_blank">Programming</a></li>
-                      <li><a href="<?= site_url() ?>online-art/" target="_blank">Online Art</a></li>
-                      <li><a href="<?= site_url() ?>sales-coach/" target="_blank">Sales Coach</a></li>
-                      <li><a href="<?= site_url() ?>quran-learning/" target="_blank">Quran Learning</a></li>
-                      <li><a href="<?= site_url() ?>gym-training/" target="_blank">Gym
-                          Training</a></li>
+                      <li><a href="<?= site_url('treinamento-online') ?>" target="_blank">Treinamento Online</a></li>
+                      <li><a href="<?= site_url('consultoria-gastronomica') ?>" target="_blank">Consultoria Gastronômica</a></li>
+                      <li><a href="<?= site_url('treinamento-para-chefs') ?>" target="_blank">Treinamento para Chefs</a></li>
+                      <li><a href="<?= site_url('curso-de-novas-receitas') ?>" target="_blank">Curso de Novas Receitas</a></li>
+                      <li><a href="<?= site_url('workshops-presenciais') ?>" target="_blank">Workshops Presenciais</a></li>
                     </ul>
                   </li>
                   <li>
                     <ul class="submenu mega-sub-menu-01">
                       <li>
-                        <a href="https://1.envato.market/5bQ022">
-                          <img src="<?= base_url('assets') ?>/mega-menu-image.webp" alt="advertising Image">
+                        <a href="https://1.envato.market/5bQ022" target="_blank">
+                          <img src="<?= base_url('assets/mega-menu-image.webp') ?>" alt="Imagem Publicitária">
                         </a>
                       </li>
                     </ul>
@@ -57,47 +51,23 @@
 
               <li class="has-droupdown"><a href="<?= base_url() ?>#">Infoprodutos</a>
                 <ul class="submenu">
-                  <li><a href="<?= site_url() ?>courses/?course_preset=1">Course Style
-                      1</a></li>
-                  <li><a href="<?= site_url() ?>courses/?course_preset=2&amp;excerpt_length=12">Course
-                      Style 2</a></li>
-                  <li><a href="<?= site_url() ?>courses/?course_preset=3&amp;excerpt_length=12">Course
-                      Style 3</a></li>
-                  <li><a href="<?= site_url() ?>courses/?course_preset=6&amp;excerpt_length=12">Course
-                      Style 4</a></li>
-                  <li><a href="<?= site_url() ?>courses/?course_preset=8">Course Style
-                      5</a></li>
-                  <li><a
-                      href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=1">Course
-                      Details 1</a></li>
-                  <li><a
-                      href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=2">Course
-                      Details 2</a></li>
-                  <li><a
-                      href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=3">Course
-                      Details 3</a></li>
-                  <li><a
-                      href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=4">Course
-                      Details 4</a></li>
-                  <li><a
-                      href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=5">Course
-                      Details 5</a></li>
+                  <li><a href="<?= site_url('ebooks/como-melhorar-atendimento') ?>">E-book Atendimento</a></li>
+                  <li><a href="<?= site_url('ebooks/seguranca-alimentar') ?>">E-book Segurança Alimentar</a></li>
+                  <li><a href="<?= site_url('ebooks/marketing-para-restaurantes') ?>">E-book Marketing</a></li>
+                  <li><a href="<?= site_url('ebooks/gestao-financeira') ?>">E-book Gestão Financeira</a></li>
                 </ul>
               </li>
 
-              <li class="has-droupdown"><a href="<?= base_url() ?>#">Cronograma</a>
+              <li class="has-droupdown"><a href="<?= base_url() ?>#">Agenda</a>
                 <ul class="submenu">
-                  <li><a href="<?= site_url() ?>zoom-meetings/cultivating-health-through-food/">Zoom
-                      Integration</a></li>
-                  <li><a href="<?= site_url() ?>events/creative-teaching-seminar/">Event
-                      Support</a></li>
-                  <li><a href="<?= site_url() ?>shop/">Shop Page</a></li>
-                  <li><a href="<?= site_url() ?>instructor-details/">Instructor Page</a>
-                  </li>
+                  <li><a href="<?= site_url('webinars/novas-tecnicas-cozinha') ?>">Webinars Técnicas de Cozinha</a></li>
+                  <li><a href="<?= site_url('eventos/palestras-gastronomia') ?>">Eventos e Palestras</a></li>
+                  <li><a href="<?= site_url('loja') ?>">Loja</a></li>
+                  <li><a href="<?= site_url('instrutores') ?>">Página dos Instrutores</a></li>
                 </ul>
               </li>
-              <li class="menu"><a href="https://devsblink.ticksy.com/" target="_blank">Suporte</a>
-              </li>
+
+              <li class="menu"><a href="https://devsblink.ticksy.com/" target="_blank">Suporte</a></li>
             </ul>
           </nav>
         </div>
@@ -116,13 +86,14 @@
       </div>
     </div>
   </div>
+
   <div class="popup-mobile-menu">
     <div class="inner">
       <div class="header-top">
         <div class="logo">
           <a href="<?= base_url() ?>">
-            <img class="logo-light" src="<?= base_url('assets') ?>/logo-white.png" alt="Corporate Logo">
-            <img class="logo-dark" src="<?= base_url('assets') ?>/logo-dark.png" alt="Corporate Logo">
+            <img class="logo-light" src="<?= base_url('assets/logo-white.png') ?>" alt="Logo do Restaurante">
+            <img class="logo-dark" src="<?= base_url('assets/logo-dark.png') ?>" alt="Logo do Restaurante">
           </a>
         </div>
         <div class="close-menu">
@@ -132,38 +103,34 @@
         </div>
       </div>
       <ul class="mainmenu">
-        <li class="has-droupdown"><a href="<?= base_url() ?>#">Pre-Build Sites</a>
+        <li class="has-droupdown"><a href="<?= base_url() ?>#">Treinamentos</a>
           <ul class="mega-menu mega-menu-one">
             <li>
               <ul class="submenu mega-sub-menu mega-sub-menu-01">
-                <li><a href="<?= site_url() ?>">EduBlink Education</a></li>
-                <li><a href="<?= site_url() ?>distant-learning/">Distant Learning</a></li>
-                <li><a href="<?= site_url() ?>university/">University</a></li>
-                <li><a href="<?= site_url() ?>online-academy/">Online Academy</a></li>
-                <li><a href="<?= site_url() ?>modern-schooling/">Modern Schooling</a></li>
-                <li><a href="<?= site_url() ?>kitchen-coach/">Kitchen Coach</a></li>
-                <li><a href="<?= site_url() ?>yoga-instructor/">Yoga Instructor</a></li>
-                <li><a href="<?= site_url() ?>kindergarten/">Kindergarten</a></li>
-                <li><a href="<?= site_url() ?>language-academy/">Language Academy</a></li>
+                <li><a href="<?= site_url() ?>">Treinamento Básico para Restaurantes</a></li>
+                <li><a href="<?= site_url('cozinha-profissional') ?>">Cozinha Profissional</a></li>
+                <li><a href="<?= site_url('atendimento-ao-cliente') ?>">Atendimento ao Cliente</a></li>
+                <li><a href="<?= site_url('gestao-de-restaurantes') ?>">Gestão de Restaurantes</a></li>
+                <li><a href="<?= site_url('higiene-e-seguranca-alimentar') ?>">Higiene e Segurança Alimentar</a></li>
+                <li><a href="<?= site_url('bar-e-bebidas') ?>">Bar e Bebidas</a></li>
+                <li><a href="<?= site_url('delivery-logistica') ?>">Delivery e Logística</a></li>
+                <li><a href="<?= site_url('marketing-gastronomico') ?>">Marketing Gastronômico</a></li>
               </ul>
             </li>
             <li>
               <ul class="submenu mega-sub-menu mega-sub-menu-01">
-                <li><a href="<?= site_url() ?>remote-training/">Remote Training</a></li>
-                <li><a href="<?= site_url() ?>business-coach/">Business Coach</a></li>
-                <li><a href="<?= site_url() ?>motivation/">Motivation</a></li>
-                <li><a href="<?= site_url() ?>programming/">Programming</a></li>
-                <li><a href="<?= site_url() ?>online-art/">Online Art</a></li>
-                <li><a href="<?= site_url() ?>sales-coach/">Sales Coach</a></li>
-                <li><a href="<?= site_url() ?>quran-learning/">Quran Learning</a></li>
-                <li><a href="<?= site_url() ?>gym-training/">Gym Training</a></li>
+                <li><a href="<?= site_url('treinamento-online') ?>">Treinamento Online</a></li>
+                <li><a href="<?= site_url('consultoria-gastronomica') ?>">Consultoria Gastronômica</a></li>
+                <li><a href="<?= site_url('treinamento-para-chefs') ?>">Treinamento para Chefs</a></li>
+                <li><a href="<?= site_url('curso-de-novas-receitas') ?>">Curso de Novas Receitas</a></li>
+                <li><a href="<?= site_url('workshops-presenciais') ?>">Workshops Presenciais</a></li>
               </ul>
             </li>
             <li>
               <ul class="submenu mega-sub-menu-01">
                 <li>
-                  <a href="https://1.envato.market/5bQ022">
-                    <img src="<?= base_url('assets') ?>/mega-menu-image.webp" alt="advertising Image">
+                  <a href="https://1.envato.market/5bQ022" target="_blank">
+                    <img src="<?= base_url('assets/mega-menu-image.webp') ?>" alt="Imagem Publicitária">
                   </a>
                 </li>
               </ul>
@@ -171,40 +138,25 @@
           </ul>
         </li>
 
-        <li class="has-droupdown"><a href="<?= base_url() ?>#">Courses</a>
+        <li class="has-droupdown"><a href="<?= base_url() ?>#">Infoprodutos</a>
           <ul class="submenu">
-            <li><a href="<?= site_url() ?>courses/?course_preset=1">Course Style 1</a></li>
-            <li><a href="<?= site_url() ?>courses/?course_preset=2&amp;excerpt_length=12">Course
-                Style 2</a></li>
-            <li><a href="<?= site_url() ?>courses/?course_preset=3&amp;excerpt_length=12">Course
-                Style 3</a></li>
-            <li><a href="<?= site_url() ?>courses/?course_preset=6&amp;excerpt_length=12">Course
-                Style 4</a></li>
-            <li><a href="<?= site_url() ?>courses/?course_preset=8">Course Style 5</a></li>
-            <li><a href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=1">Course
-                Details 1</a></li>
-            <li><a href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=2">Course
-                Details 2</a></li>
-            <li><a href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=3">Course
-                Details 3</a></li>
-            <li><a href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=4">Course
-                Details 4</a></li>
-            <li><a href="<?= site_url() ?>courses/starting-seo-as-your-home-based-business/?course_details=5">Course
-                Details 5</a></li>
+            <li><a href="<?= site_url('ebooks/como-melhorar-atendimento') ?>">E-book Atendimento</a></li>
+            <li><a href="<?= site_url('ebooks/seguranca-alimentar') ?>">E-book Segurança Alimentar</a></li>
+            <li><a href="<?= site_url('ebooks/marketing-para-restaurantes') ?>">E-book Marketing</a></li>
+            <li><a href="<?= site_url('ebooks/gestao-financeira') ?>">E-book Gestão Financeira</a></li>
           </ul>
         </li>
 
-        <li class="has-droupdown"><a href="<?= base_url() ?>#">Features</a>
+        <li class="has-droupdown"><a href="<?= base_url() ?>#">Agenda</a>
           <ul class="submenu">
-            <li><a href="<?= site_url() ?>zoom-meetings/cultivating-health-through-food/">Zoom
-                Integration</a></li>
-            <li><a href="<?= site_url() ?>events/creative-teaching-seminar/">Event Support</a>
-            </li>
-            <li><a href="<?= site_url() ?>shop/">Shop Page</a></li>
-            <li><a href="<?= site_url() ?>instructor-details/">Instructor Page</a></li>
+            <li><a href="<?= site_url('webinars/novas-tecnicas-cozinha') ?>">Webinars Técnicas de Cozinha</a></li>
+            <li><a href="<?= site_url('eventos/palestras-gastronomia') ?>">Eventos e Palestras</a></li>
+            <li><a href="<?= site_url('loja') ?>">Loja</a></li>
+            <li><a href="<?= site_url('instrutores') ?>">Página dos Instrutores</a></li>
           </ul>
         </li>
-        <li class="menu"><a href="https://devsblink.ticksy.com/" target="_blank">Support</a></li>
+
+        <li class="menu"><a href="https://devsblink.ticksy.com/" target="_blank">Suporte</a></li>
       </ul>
     </div>
   </div>

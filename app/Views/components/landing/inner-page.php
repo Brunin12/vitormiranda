@@ -4,10 +4,9 @@
       <div class="col-lg-12">
         <div class="section-title text-center" data-sal-delay="100" data-sal="slide-up" data-sal-duration="1000">
           <span class="counter big-pre-title">70</span><span class="big-pre-title">+</span>
-          <h2 class="title">Pre-Made Inner Pages <span class="gradient-text"> That Serve</span> <br> <span
-              class="gradient-text-1"> Your</span> Purpose</h2>
-          <p class="description">With a collection of 70 professionally designed inner pages <br> you can
-            design your website more precisely.</p>
+          <h2 class="title">Mais de 70 Páginas <span class="gradient-text">Prontas para</span> <br> <span
+              class="gradient-text-1">Potencializar</span> seu Restaurante</h2>
+          <p class="description">Com uma coleção de mais de 70 páginas profissionais <br> você consegue criar um site completo, personalizado e focado no seu negócio.</p>
         </div>
       </div>
     </div>
